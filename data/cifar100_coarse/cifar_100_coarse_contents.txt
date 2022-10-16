@@ -1,0 +1,44 @@
+./cifar100_coarse/
+├── test
+│   ├── C10_household_electrical_devices
+│   ├── C11_medium_mammals
+│   ├── C12_reptiles
+│   ├── C13_insects
+│   ├── C14_fruit_and_vegetables
+│   ├── C15_vehicles_1
+│   ├── C16_large_carnivores
+│   ├── C17_large_omnivores_and_herbivores
+│   ├── C18_non-insect_invertebrates
+│   ├── C19_vehicles_2
+│   ├── C1_household_furniture
+│   ├── C20_fish
+│   ├── C2_aquatic_mammals
+│   ├── C3_food_containers
+│   ├── C4_people
+│   ├── C5_large_natural_outdoor_scenes
+│   ├── C6_trees
+│   ├── C7_small_mammals
+│   ├── C8_flowers
+│   └── C9_large_man-made_outdoor_things
+└── train
+    ├── C10_household_electrical_devices
+    ├── C11_medium_mammals
+    ├── C12_reptiles
+    ├── C13_insects
+    ├── C14_fruit_and_vegetables
+    ├── C15_vehicles_1
+    ├── C16_large_carnivores
+    ├── C17_large_omnivores_and_herbivores
+    ├── C18_non-insect_invertebrates
+    ├── C19_vehicles_2
+    ├── C1_household_furniture
+    ├── C20_fish
+    ├── C2_aquatic_mammals
+    ├── C3_food_containers
+    ├── C4_people
+    ├── C5_large_natural_outdoor_scenes
+    ├── C6_trees
+    ├── C7_small_mammals
+    ├── C8_flowers
+    └── C9_large_man-made_outdoor_things
+
